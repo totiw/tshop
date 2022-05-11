@@ -1,0 +1,17 @@
+.hero {
+  display: flex;
+  height: 500px;
+  background-color: lighten($color: #00eaff, $amount: 40);
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+
+    .left {
+      display: flex;
+      flex-direction: column;
+      background-color: red;
+      justify-content: center;
+    }
+  }
+}
