@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tshop/static/css/main.3a2c9564.css",
+    "main.css": "/tshop/static/css/main.64499fb5.css",
     "main.js": "/tshop/static/js/main.aeaada60.js",
     "static/media/nike.webp": "/tshop/static/media/nike.79bc3ae44d5190da3891.webp",
     "index.html": "/tshop/index.html",
-    "main.3a2c9564.css.map": "/tshop/static/css/main.3a2c9564.css.map",
+    "main.64499fb5.css.map": "/tshop/static/css/main.64499fb5.css.map",
     "main.aeaada60.js.map": "/tshop/static/js/main.aeaada60.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a2c9564.css",
+    "static/css/main.64499fb5.css",
     "static/js/main.aeaada60.js"
   ]
 }
